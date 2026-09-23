@@ -1,19 +1,20 @@
 Package: toxSummary
 Title: Visualize and Summarize Repeat-Dose Toxicology Study Results
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
  c(
-    person("Yousuf", "Ali", email=  "md.ali@fda.hhs.gov", role = c( "cre",  "aut")),
-    person("Kevin", "Snyder", email= "kevin.snyder@fda.hhs.gov", role = c("aut")),
+    person("Yousuf", "Ali", email=  "mdyousuf.ali@fda.hhs.gov", role = c( "cre",  "aut")),
+    person("Kevin", "Snyder", email= "kevin.snyder@certara.com", role = c("aut")),
     person(given = "FDA", role = "cph"))
 Description: A 'shiny' app that generates plots and summary tables from repeat-dose
         toxicology study results to facilitate holistic evaluation of the drug safety of 
         active pharmaceutical ingredients (API) prior to initiation of clinical trials.
 License: MIT + file LICENSE
-URL: https://github.com/phuse-org/toxSummary
+URL: https://github.com/phuse-org/toxSummary,
+        https://phuse-org.github.io/toxSummary/
 BugReports: https://github.com/phuse-org/toxSummary/issues
 Encoding: UTF-8
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.3
 Imports: cicerone, data.table, DBI, dplyr, DT, flextable, fs, ggiraph,
         ggplot2, htmltools, magrittr, patchwork, rlang, RSQLite,
         scales, shiny, shinycssloaders, shinydisconnect, stringr
@@ -21,10 +22,10 @@ Depends: R (>= 2.10)
 Suggests: knitr, officer, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-02-26 19:25:22 UTC; Md.Ali
+Packaged: 2026-09-23 13:22:53 UTC; MDYousuf.Ali
 Author: Yousuf Ali [cre, aut],
   Kevin Snyder [aut],
   FDA [cph]
-Maintainer: Yousuf Ali <md.ali@fda.hhs.gov>
+Maintainer: Yousuf Ali <mdyousuf.ali@fda.hhs.gov>
 Repository: CRAN
-Date/Publication: 2024-02-27 17:30:02 UTC
+Date/Publication: 2026-09-23 15:00:02 UTC

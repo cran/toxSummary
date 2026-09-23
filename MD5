@@ -1,4 +1,4 @@
-3fada16bea58251fbf281a1375095854 *DESCRIPTION
+5762b7106c2398e8fc29274b7dbba7bb *DESCRIPTION
 e56a918c16871888ee3fce2dd1186f53 *LICENSE
 697e2d0e1e1a7e9f5f8f5a9277260d9c *NAMESPACE
 a508442b6784005a1a375226349fec53 *R/get_all_permissions.R
@@ -8,11 +8,11 @@ c7bd591dd71e81bca336048ec8aa0339 *R/help_text.R
 d9df828226b99bfe122b1fcaf85d8362 *R/tox_summary_new_UI.R
 931946ed6ba63db9535ce7bbc272d7b7 *R/utils.R
 f8f0ea30ea1890128edc612badfab39f *R/zzz.R
-848c5b9eda7e94b9b1c488579f852c32 *README.md
-50003adc43d6411007b98e6058927ebf *build/vignette.rds
-1c9051e4d8c1895d15b989c9cd94b741 *inst/doc/Introduction.R
+a1d2e1923a75fb73aeff8058987bf685 *README.md
+bd949f94c53385fb8608030a412b26b4 *build/vignette.rds
+73b5c9c3e3f1b16d7c6d59e93b11c223 *inst/doc/Introduction.R
 1c7794c32ebf39de81436c931ef0913e *inst/doc/Introduction.Rmd
-1e451575bda30e769cf00237f5af149a *inst/doc/Introduction.html
+d2313f1038f22c75b9b29d34038e3314 *inst/doc/Introduction.html
 d03eccaf685121e6f07211cf102b61fa *inst/www/DT_extension/dataTables.rowsGroup.js
 be2734bb47ed724e0844742b78d09587 *inst/www/button.js
 264a16bd2658d7b059c827bc33114f77 *inst/www/dom-to-image.min.js
